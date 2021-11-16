@@ -2,13 +2,13 @@
 
 * {
   font-family: "Roboto", sans-serif;
-  box-sizing: border-box; 
+  box-sizing: border-box;
 }
 
-body{
-    background: url("4877010.jpg");
-    background-position: left;
-    background-repeat: no-repeat;
+body {
+  background: url("4877010.jpg");
+  background-position: left;
+  background-repeat: no-repeat;
 }
 
 .container {
@@ -100,7 +100,7 @@ body{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px;
+  padding: 9.8px;
   margin: 5px;
   color: gray;
   font-size: 15px;
@@ -128,6 +128,7 @@ body{
 
 .value > input {
   border-top: 0;
+  background: none;
   width: 300px;
   border-left: 0;
   border-right: 0;
